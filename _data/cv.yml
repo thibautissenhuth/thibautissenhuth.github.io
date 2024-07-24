@@ -22,6 +22,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Scientist
+      institution: Criteo AI Lab, Paris, France.
+      year: 2019
+      description:
+        - Fundamental research on deep learning and generative models. Collaboration on applied machine learning projects with product and engineering teams. 
+
     - title: Internship
       institution: Criteo AI Lab, Paris, France.
       year: 2019
@@ -38,3 +44,7 @@
   contents:
     - title: NeurIPS
       year: 2022
+    - title: ICML, ICLR
+      year: 2023
+    - title: ICML, NeurIPS
+      year: 2024
